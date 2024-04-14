@@ -10,20 +10,22 @@ Esta é uma aplicação simples de login, com um frontend construído com React 
 
 1. *Iniciar o servidor backend:*
 Vá até a pasta raiz do projeto e execute o seguinte comando para iniciar o servidor backend:
+
     node server.js
+   
 Certifique-se de que o servidor backend está em execução antes de usar a aplicação.
 
-2. *Iniciar a aplicação frontend:*
+3. *Iniciar a aplicação frontend:*
 Abra um novo terminal e vá até a pasta raiz do projeto. Execute o seguinte comando para iniciar a aplicação 
 frontend:
     npm start
 Isso iniciará a aplicação frontend em um servidor de desenvolvimento. 
 Você pode acessá-la em http://localhost:3000 no seu navegador.
 
-3. *Testar a aplicação:*
+4. *Testar a aplicação:*
 Após iniciar tanto o servidor backend quanto a aplicação frontend, você pode acessar a aplicação no navegador e testar o processo de login.
 
-4. *Utilizar usuários pré prontos no user.json*
+5. *Utilizar usuários pré prontos no user.json*
 
     [
   { "email": "usuario1@usuario.com", "password": "senha123" },
